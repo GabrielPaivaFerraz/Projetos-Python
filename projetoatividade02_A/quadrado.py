@@ -7,9 +7,9 @@ class Quadrado:
         self.altura = altura
 
     def largura1(largura, altura):
-        a = largura* altura
-        return a 
+        l = largura* altura
+        return l
 
     def altura1(largura, altura):
-        p = 2 * (largura + altura)
-        return p                
+        a = 2 * (largura + altura)
+        return a               
