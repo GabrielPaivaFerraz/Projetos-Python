@@ -1,10 +1,13 @@
+from __future__ import division
+
+
 class Divisao:
     a = 0 / 2
-    b = 0 / 2
+    
 
 
-    def __init__(self, a, b):
+    def __init__(self, a, ):
         self.a = a 
-        self.b = b 
+        return a
 
         
