@@ -23,14 +23,14 @@ resultado1 = quadrado1.largura1(20, 5)
 resultado2 = quadrado2.largura1(80, 5)
 
 print('LARGURA')
-print(f'A largura do quadrado e:{resultado1}')
-print(f'A largura do quadrado e:{resultado2}')
+print(f'A largura do 1° quadrado e:{resultado1}')
+print(f'A largura do 2° quadrado e:{resultado2}')
 print('-'*70)
 
 resultado3 = quadrado3.altura1(20, 5)
 resultado4 = quadrado4.altura1(80, 5)
 
 print('ALTURA')
-print(f'O altura do quadrado e: {resultado3}')
-print(f'O altura do quadrado e: {resultado4}')
+print(f'O altura do 1° quadrado e: {resultado3}')
+print(f'O altura do 2° quadrado e: {resultado4}')
 print('-'*70)
